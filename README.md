@@ -19,7 +19,7 @@ Every repo has a folder pipeline from which the necessary automation will be set
 ### Scripting start with bash, use javascript when complex
 
 ## Strategic technology
-- Container framework: docker
+- Container framework: docker, vagrant
 - Cluster: kubernetes, gke, minikube
 - Version control: git, github
 - Programming language: javascript
