@@ -40,3 +40,8 @@ Every repo has a folder pipeline from which the necessary automation will be set
 - Create a repository
 - Add a readme
 - Add a pipeline and create it with the build server
+
+## Security issues
+- Database wachtwoord in admin api
+- Service account json in gcloud image
+
